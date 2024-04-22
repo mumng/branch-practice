@@ -1,3 +1,3 @@
-for i in range(3):
-    print('hello')
+for i in range(10):
+    print('안녕하세요')
 
